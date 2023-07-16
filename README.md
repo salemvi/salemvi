@@ -30,8 +30,9 @@
 
 <div align="center" dir="auto" max-width=100%>
   <div width=50%>
-  ![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=salemvi&show_icons=true&theme=tokyonight)
+  <a href="https://github-readme-stats.vercel.app/api?username=salemvi&show_icons=true&theme=tokyonight">
   </div>
+  </a>
   
 </div>
 
