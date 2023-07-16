@@ -2,10 +2,6 @@
   <img src="https://github.com/salemvi/salemvi/assets/126908341/4bc79563-1191-4eb2-84ef-a0931faccc7b"/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 <div id="badges" align="center" >
    <a href="https://t.me/salemvi">
     <img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
