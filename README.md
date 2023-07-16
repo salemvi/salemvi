@@ -27,10 +27,15 @@
 
 ---
 
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=salemvi&show_icons=true&theme=tokyonight"><img width="48%" src="https://camo.githubusercontent.com/a8bcec841d8d7535f7cc64e367cb9bf1c1b1f9b6f9b72c5a65bd3fb1a83c3fd5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d767365636f6465722673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/46fc5320d416b683860f98bb1861049dbdfaf1a94f1c00503f01833abbde08dd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d767365636f646572267468656d653d746f6b796f6e69676874"><img width="48%" src="https://camo.githubusercontent.com/46fc5320d416b683860f98bb1861049dbdfaf1a94f1c00503f01833abbde08dd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d767365636f646572267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemvi&layout=compact&theme=tokyonight" style="max-width: 100%;"></a>
-</p>
+
+<div align="center" dir="auto" max-width=100%>
+  <div width=50%>
+    <a href="https://github-readme-stats.vercel.app/api?username=salemvi&show_icons=true&theme=tokyonight)">
+    </a>
+  </div>
+  
+</div>
+
 
 ![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=salemvi&show_icons=true&theme=tokyonight)
 
