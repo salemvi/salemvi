@@ -37,9 +37,12 @@
 
 ---
 
+<p dir="auto"><a href="https://git.io/streak-stats" rel="nofollow"><img src="https://camo.githubusercontent.com/d2481bf206ce47c84aca4b1cebd700e1ead39c5f61695c1ddcd26ee8e539a507/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d73616c656d7669267468656d653d746f6b796f6e69676874266261636b67726f756e643d303030303030" alt="GitHub Streak" data-canonical-src="http://github-readme-streak-stats.herokuapp.com?user=salemvi&amp;theme=tokyonight&amp;background=000000" style="max-width: 100%;"></a></p>
+
 
 <p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a8bcec841d8d7535f7cc64e367cb9bf1c1b1f9b6f9b72c5a65bd3fb1a83c3fd5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d767365636f6465722673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874"><img width="48%" src="https://camo.githubusercontent.com/a8bcec841d8d7535f7cc64e367cb9bf1c1b1f9b6f9b72c5a65bd3fb1a83c3fd5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d767365636f6465722673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api?username=vsecoder&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://git.io/streak-stats"><img width="48%" src="https://camo.githubusercontent.com/d2481bf206ce47c84aca4b1cebd700e1ead39c5f61695c1ddcd26ee8e539a507/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d73616c656d7669267468656d653d746f6b796f6e69676874266261636b67726f756e643d303030303030" data-canonical-src="https://github-readme-stats.vercel.app/api?username=salemvi&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;"></a>
+  
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/46fc5320d416b683860f98bb1861049dbdfaf1a94f1c00503f01833abbde08dd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d767365636f646572267468656d653d746f6b796f6e69676874"><img width="48%" src="https://camo.githubusercontent.com/46fc5320d416b683860f98bb1861049dbdfaf1a94f1c00503f01833abbde08dd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d767365636f646572267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=vsecoder&amp;theme=tokyonight" style="max-width: 100%;"></a>
 </p>
 
