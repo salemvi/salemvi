@@ -4,7 +4,7 @@
 
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
 
 </div>
 ![github-banner](https://github.com/salemvi/salemvi/assets/126908341/18fad95b-5a23-432a-a0a1-71fd9ea2ab2a)
