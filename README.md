@@ -4,11 +4,11 @@
 
 <div id="badges" align="center" >
    <a href="https://t.me/salemvi">
-    <img src="https://img.shields.io/badge/Telegram-62BAAE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=1A1B26" alt="Telegram Badge"/>
    </a>
 
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-62BAAE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=1A1B26" alt="LinkedIn Badge"/>
   </a>
 </div>
 
