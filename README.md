@@ -1,9 +1,9 @@
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-#144b6f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-144b6f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://t.me/salemvi">
-    <img src="https://img.shields.io/badge/Telegram-#144b6f?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-144b6f?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
 </div>
 
