@@ -27,8 +27,7 @@
 
 ---
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salemvi&theme=dark&background=000000)](https://git.io/streak-stats)
+![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=salemvi&show_icons=true&theme=radical)
 
 
 
