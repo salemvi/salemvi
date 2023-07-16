@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/salemvi/salemvi/assets/126908341/4bc79563-1191-4eb2-84ef-a0931faccc7b)"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/salemvi/salemvi/assets/126908341/4bc79563-1191-4eb2-84ef-a0931faccc7b"/>
 </div>
 
 
