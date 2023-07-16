@@ -45,7 +45,7 @@
 <img width="48%" src="https://camo.githubusercontent.com/46fc5320d416b683860f98bb1861049dbdfaf1a94f1c00503f01833abbde08dd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d767365636f646572267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=vsecoder&amp;theme=tokyonight" style="max-width: 100%;">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
 <!--
 **salemvi/salemvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
