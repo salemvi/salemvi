@@ -1,7 +1,7 @@
-<div id="header" style="text-align: center" >
+<div id="header" align="center" >
   <img src="https://github.com/salemvi/salemvi/assets/126908341/4bc79563-1191-4eb2-84ef-a0931faccc7b"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
