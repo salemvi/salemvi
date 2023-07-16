@@ -27,7 +27,7 @@
 
 ---
 
-![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=salemvi&show_icons=true&theme=radical)
+![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=salemvi&show_icons=true&theme=dark)
 
 
 
