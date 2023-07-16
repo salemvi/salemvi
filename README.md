@@ -29,15 +29,13 @@
 
 
 <div align="center" dir="auto" max-width=100%>
-  <div width=50%>
-  <a href="https://github-readme-stats.vercel.app/api?username=salemvi&show_icons=true&theme=tokyonight">
-  </div>
-  </a>
+<a href="https://github-readme-stats.vercel.app/api?username=salemvi&show_icons=true&theme=tokyonight">
+</a>
   
 </div>
 
 
-
+![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=salemvi&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salemvi&layout=compact&theme=tokyonight)
 
