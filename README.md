@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src = 'https://github.com/salemvi/salemvi/assets/126908341/4bc79563-1191-4eb2-84ef-a0931faccc7b'>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 <!--
 **salemvi/salemvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
