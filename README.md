@@ -27,20 +27,14 @@
 
 ---
 
-
-![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=salemvi&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salemvi&theme=tokyonight&background=000000)](https://git.io/streak-stats)
-
-
-
-
----
-
 <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/345f9fa63d7586638c56fbcdbf3c5ee87b19b201959557d88c17dff9bbd4b1f3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73616c656d76692673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874"><img width="48%" src="https://camo.githubusercontent.com/345f9fa63d7586638c56fbcdbf3c5ee87b19b201959557d88c17dff9bbd4b1f3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73616c656d76692673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api?username=salemvi&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://git.io/streak-stats"><img width="48%" src="https://camo.githubusercontent.com/37c2da38ffabf2b8abae75534a89ec997cafb2d01956314be1e543307dc50b90/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d73616c656d7669267468656d653d746f6b796f6e69676874" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=salemvi&amp;theme=tokyonight" style="max-width: 100%;">
 </p>
+
+---
+
+
 
 
 
