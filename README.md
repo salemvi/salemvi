@@ -3,10 +3,11 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="[https://img.shields.io/badge/Telegram](https://github.com/salemvi/salemvi/assets/126908341/69dda7d8-2ace-4283-a2c5-0c598c11c0b4)-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <img style='border:10px' src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
 
 </div>
+![github-banner](https://github.com/salemvi/salemvi/assets/126908341/18fad95b-5a23-432a-a0a1-71fd9ea2ab2a)
 
 <!--
 **salemvi/salemvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
