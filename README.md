@@ -28,7 +28,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"  title="sass" **alt="Git" width="40" height="40"/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salemvi&label=Profile%20views&color=042437&style=flat-square" alt="salemvi" /> </p>
 
 ---
 
@@ -38,6 +37,8 @@
 </p>
 
 ---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=salemvi&label=Profile%20views&color=042437&style=flat-square" alt="salemvi" /> </p>
 
 
 
