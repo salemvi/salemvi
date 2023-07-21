@@ -30,8 +30,6 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salemvi&" alt="salemvi" /></p>
-
 ---
 
 <p align="center" dir="auto">
