@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://github.com/salemvi/salemvi/assets/126908341/4bc79563-1191-4eb2-84ef-a0931faccc7b"/>
-</div>
+
 
 <div id="badges" align="center" >
    <a href="https://t.me/salemvi">
